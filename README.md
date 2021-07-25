@@ -16,7 +16,7 @@ This project was to create a presentation for potential investors who might be i
   - 1,530,272 rides by males
   - 588,431 rides by females 
   - 225,521 rides from users who preferred not to answer/other gender
-- Peak trip start time in was at 5-6 PM
+- Peak trip start time was at 5-6 PM
 - Lowest trip start time was between 1-5 AM
 
 ### Checkout Times for Users
@@ -52,3 +52,15 @@ This project was to create a presentation for potential investors who might be i
 
 ### Tableau Link
 [Link to Story](https://public.tableau.com/app/profile/jordan.bellucci/viz/NYCCitiBikeData2019_16272385474350/NYCCitibikeAnalysis?publish=yes)
+
+## Summary
+Based on the August 2019 NY Citibike analysis, we can conclude the following about bikeshare trends:
+- Bikeshare "subscribers" are the most consistent trip takers and these users are likely to take trips on all days of the week. As such, the success of a new bikeshare business in a new city relies on being able to grow a subscriber base and marketing should be focused on incentives for these users. 
+- There are three times as many male users as there are any other gender. More analysis is needed to discover why females and other users are not as eager to ride. 
+- The majority of trips are very short (5 to 6 minutes) and trips are more likely to occur during the morning and afternoon work commutes on Monday-Friday. 
+- Trips are mostly likely to start and end near tourist attractions. We therefore need to ensure the highest supply of bikes can be found in these locations.
+- Any bike maintenance should take place during non-peak hours between 1-5 AM so as not to leave users without a bike during peak times. 
+
+### Additional Visualizations
+- Average distance traveled by gender by weekday
+- Average distance traveled by user type (customers vs. subscribers)
