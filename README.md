@@ -49,3 +49,6 @@ This project was to create a presentation for potential investors who might be i
 ![Image of Starting Locations](https://github.com/jpb12002/Bikesharing/blob/main/NYC%20Citibike%20Analysis%20(6).png)
 ![Image of Ending Locations](https://github.com/jpb12002/Bikesharing/blob/main/NYC%20Citibike%20Analysis%20(7).png)
 - The majority of trips start and end in downtown Manhattan where there are more tourist attractions
+
+### Tableau Link
+[Link to Story](https://public.tableau.com/app/profile/jordan.bellucci/viz/NYCCitiBikeData2019_16272385474350/NYCCitibikeAnalysis?publish=yes)
